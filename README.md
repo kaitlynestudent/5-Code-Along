@@ -1,2 +1,5 @@
 # 5-Code-Along
-Copper City Makerspace
+The Copper City Makerspace is single page webpage meant to tell the community about its services.
+The HTML is semantic and validated. 
+There is no CSS. 
+There is no Javascript.  
